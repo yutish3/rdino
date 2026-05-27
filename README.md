@@ -1,6 +1,7 @@
 # rdino
 rp-2040 development board in the shape of arduino uno r3 so it supports its hats and also has esp32 for wifi and bluetooth
 
+<img src="Screenshot (1535).png" alt="PCB Layout 1" width="600">
 
 <img src="Screenshot (1530).png" alt="PCB Layout 1" width="600">
 
