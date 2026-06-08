@@ -4,6 +4,10 @@ rp-2040 development board in the shape of arduino uno r3 so it supports its hats
 it has dual microcontroller so all the less important repetative tasks can be off loaded to esp32 and main work can be done by the rp 2040 chip with extra 16M bit memory
 and it can be used foor any project like lfr robot , micromouse , rc car etc
 
+<img src="image_2026-06-09_012542882.png" alt="Schematics" width="600">
+
+<img src="image_2026-06-09_012432308.png" alt="PCB design" width="600">
+
 <img src="Screenshot (1535).png" alt="PCB Layout 1" width="600">
 
 <img src="Screenshot (1530).png" alt="PCB Layout 1" width="600">
