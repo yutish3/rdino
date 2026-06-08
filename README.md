@@ -17,20 +17,27 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 <img src="Screenshot (1534).png" alt="3D View" width="600">
 
 
-## BOM
 | Component | Purpose | Qty | Cost (USD) | Distributor |
-|---|---|:---:|:---:|---|
-| [Seeed Studio XIAO ESP32-S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) | Camera and controller | 1 | $25.00 | Seeed Studio |
-| [MPU-6050](https://www.aliexpress.com/item/1005007986741850.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000043166583348%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Gyroscope / IMU | 1 | $7.20 | AliExpress |
-| [Motors](https://www.aliexpress.com/item/1005006105092170.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000035766688570%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Spin propellers | 1 | $5.77 | AliExpress |
-| [Propellers](https://www.aliexpress.com/item/1005005351811890.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000032714337732%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Provides lift | 1 | $5.90 | AliExpress |
-| [Battery](https://www.aliexpress.com/item/1005006762177546.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000038217592894%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Power source | 1 | $6.50 | AliExpress |
-| [Battery Connector](https://www.aliexpress.com/item/1005003431613901.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000028261810379%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Connects battery to PCB | 1 | $3.20 | AliExpress |
-| [Transistors](https://www.aliexpress.com/item/1005011574380229.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000055960036705%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Motor switching (SI2300DS) | 1 | $2.50 | AliExpress |
-| [Diodes](https://www.aliexpress.com/item/1005007160563285.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000039653324544%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Flyback protection (1N4148W) | 1 | $2.20 | AliExpress |
-| [Resistors](https://www.aliexpress.com/item/1005010519485476.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000052676754449%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Pull-down / voltage divider | 1 | $4.10 | AliExpress |
-| [Capacitors](https://www.aliexpress.com/item/1005007470747384.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040888645899%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Motor decoupling | 1 | $1.90 | AliExpress |
-| [LED](https://www.aliexpress.com/item/1005010338676055.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000052257941480%22%7D&sourceType=1&spm=a2g0o.wish-manage-detail.0.0) | Status indicator | 1 | $5.20 | AliExpress |
-| PCB | Component mounting | 1 | $4.30 | JLCPCB |
+| --- | --- | --- | --- | --- |
+| RP2040 (QFN-56) | Main Microcontroller | 1 | $1.00 | LCSC / DigiKey |
+| ESP32-C3-WROOM-02 | Wi-Fi / BLE Module | 1 | $2.00 | LCSC / Mouser |
+| W25Q128JVS (SOIC-8) | 128Mbit Flash Memory | 1 | $0.60 | LCSC / DigiKey |
+| AP2112K-3.3 (SOT-23-5) | 3.3V LDO Voltage Regulator | 1 | $0.20 | LCSC |
+| WS2812B-2020 (PLCC4) | Addressable RGB LEDs (D1-D24, D27, D29, D31) | 25 | $2.50 | LCSC / AliExpress |
+| Standard LED (0603) | Status Indicator (D26) | 1 | $0.05 | LCSC |
+| USB-C Receptacle 14-Pin | Power and Data Interface (J1) | 1 | $0.30 | LCSC / AliExpress |
+| 1x04 Pin Header/Socket | I/O Expansion / Programming (J6) | 1 | $0.10 | AliExpress |
+| 1x06 Pin Header/Socket | I/O Expansion (J2) | 1 | $0.10 | AliExpress |
+| 1x08 Pin Header/Socket | I/O Expansion (J4, J5) | 2 | $0.20 | AliExpress |
+| 1x10 Pin Header/Socket | I/O Expansion (J3) | 1 | $0.15 | AliExpress |
+| Push Button (KMR2) | Reset / User Input (SW1, SW2) | 2 | $0.20 | LCSC |
+| 1.1kΩ Resistor (0603) | Current Limiting / Pull-up | 1 | $0.01 | LCSC |
+| 4.7kΩ Resistor (0603) | I2C / General Pull-up | 2 | $0.02 | LCSC |
+| 10kΩ Resistor (0603) | Pull-up / Pull-down | 3 | $0.03 | LCSC |
+| 5.1kΩ Resistor (0603) | USB-C CC line Pull-down | 2 | $0.02 | LCSC |
+| 1μF Capacitor (0603) | Decoupling / Bypass | 6 | $0.06 | LCSC |
+| 27pF Capacitor (0603) | Crystal Load Capacitors | 2 | $0.02 | LCSC |
+| Crystal 3225 (4-Pin) | Clock Source for RP2040 (Y1) | 1 | $0.15 | LCSC |
+| PCB | Component Mounting | 1 | $2.00 | JLCPCB / PCBWay |
 
-**Total Estimated Cost: ~$73.77**
+**Total Estimated Cost: ~$9.71**
