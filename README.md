@@ -29,7 +29,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | AP2112K-3.3 (SOT-23-5) | 3.3V LDO Voltage Regulator | 1 | ₹24 | [Evelta](https://evelta.com/linear-voltage-regulator-positive-fixed-1-output-300ma-ic-sot-23-5/?sku=035-TLV74033PDBVR&utm_source=google&utm_campaign=19958243666&utm_medium=cpc&utm_content=&utm_term=&gad_source=1&gad_campaignid=19958265965&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDpVNRkkdR8DkeeqQDI-B0SV4mmE5r7KHuDlczT8pWqQnIAxcDNvTTQaAnOdEALw_wcB#productDescription) |
 | WS2812B-2020 (PLCC4) | Addressable RGB LEDs (D1-D24, D27, D29, D31) | 25 | ₹275 | [Robu](https://robu.in/product/1-month-warranty-953/?gad_source=1&gad_campaignid=17427802703&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDpt1pzF430Rd8rggMbqOhyDVxqaDctheh1CFh1cCbUzKa_cTqI4nuYaAhGvEALw_wcB) |
 | 74AHCT125 | 3.3v to 5v converter | 1 | ₹37 | [Robu](https://robu.in/product/74ahct125pw118-nexperia-8ma-1-4-5v5-5v-8ma-4-tssop-14-buffers-drivers-receivers-transceivers-rohs/) |
-| Standard LED (0603) | Status Indicator (D26) | 1 | ₹13 | ROBU / MOUSER / offline |
+| Standard LED (0603) | Status Indicator (D26) | 1 | ₹3.3 | [evelta](https://evelta.com/0603-orange-chip-led/?srsltid=AfmBOopJK48IT0WFYCzFETDcCPIIkiPRop17X2j5vajIVfQTBZ31vxPa) |
 | USB-C Receptacle 14-Pin | Power and Data Interface (J1) | 1 | ₹45 | ROBU / MOUSER / offline |
 | 1x04 Pin Header/Socket | I/O Expansion / Programming (J6) | 1 | ₹15 | ROBU / MOUSER / offline |
 | 1x06 Pin Header/Socket | I/O Expansion (J2) | 1 | ₹15 | ROBU / MOUSER / offline |
