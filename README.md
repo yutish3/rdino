@@ -23,7 +23,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 
 | Component | Purpose | Qty | Cost (USD) | Distributor |
 | --- | --- | --- | --- | --- |
-| RP2040 (QFN-56) | Main Microcontroller | 1 | ₹81.00 | ROBU / MOUSER / offline |
+| RP2040 (QFN-56) | Main Microcontroller | 1 | ₹81.00 | [Evelta](https://evelta.com/rp2040-264kb-sram-dual-arm-cortex-m0-processor-mcu-by-raspberry-pi/?srsltid=AfmBOopaIG6fpnSNGs3z4S0e6P0bgP9_VYOyHm1yW1iu5uU8jt_uu5J_) |
 | ESP32-C3-WROOM-02 | Wi-Fi / BLE Module | 1 | ₹175 | ROBU / MOUSER / offline |
 | W25Q128JVS (SOIC-8) | 128Mbit Flash Memory | 1 | ₹70 | ROBU / MOUSER / offline |
 | AP2112K-3.3 (SOT-23-5) | 3.3V LDO Voltage Regulator | 1 | ₹24 | ROBU / MOUSER / offline |
