@@ -31,10 +31,10 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | 74AHCT125 | 3.3v to 5v converter | 1 | ₹37 | [Robu](https://robu.in/product/74ahct125pw118-nexperia-8ma-1-4-5v5-5v-8ma-4-tssop-14-buffers-drivers-receivers-transceivers-rohs/) |
 | Standard LED (0603) | Status Indicator (D26) | 1 | ₹3.3 | [evelta](https://evelta.com/0603-orange-chip-led/?srsltid=AfmBOopJK48IT0WFYCzFETDcCPIIkiPRop17X2j5vajIVfQTBZ31vxPa) |
 | USB-C Receptacle 14-Pin | Power and Data Interface (J1) | 1 | ₹8 | [Hubtronics](https://hubtronics.in/usb-type-c-16p-female-connector-surface-mount?srsltid=AfmBOordf7MpBH0Qx-t9NQyY5B-fdjtzOuCBNZ2MHx8Cz8tkCzKM3Jp4zG4) |
-| 1x04 Pin Header/Socket | I/O Expansion / Programming (J6) | 1 | ₹15 | ROBU / MOUSER / offline |
-| 1x06 Pin Header/Socket | I/O Expansion (J2) | 1 | ₹15 | ROBU / MOUSER / offline |
-| 1x08 Pin Header/Socket | I/O Expansion (J4, J5) | 2 | ₹30 | ROBU / MOUSER / offline |
-| 1x10 Pin Header/Socket | I/O Expansion (J3) | 1 | ₹15 | ROBU / MOUSER / offline |
+| 1x04 Pin Header/Socket | I/O Expansion / Programming (J6) | 1 | ₹11 | [Robu](https://robu.in/product/fh2-0-09-04pzd-xunpu-plugin1x4-pin-2mm-female-headers-rohs/?gad_source=1&gad_campaignid=17427802703&gclid=CjwKCAjw08fSBhA7EiwAfbQTsMGuGFKjKxeAs85tsGpJZ_VgBg9C0syUiuKSdEVnRGq6vaZT8pyhIhoCEKcQAvD_BwE)|
+| 1x06 Pin Header/Socket | I/O Expansion (J2) | 5 | ₹53 | [Robu](https://robu.in/product/6-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/) |
+| 1x08 Pin Header/Socket | I/O Expansion (J4, J5) | 2 | ₹32 | [Robu](https://robu.in/product/fh1-27-01-08pzd-xunpu-plugin1x8-pin-1-27mm-female-headers-rohs/?gad_source=1&gad_campaignid=17427802703&gclid=CjwKCAjw08fSBhA7EiwAfbQTsAXYrqE1Rld57TzQKy9yslqVRvfkEbmGVCeCCZim9T4gCUaC_6xX4xoCpCAQAvD_BwE) |
+| 1x10 Pin Header/Socket | I/O Expansion (J3) | 1 | ₹17 | [Robu](https://robu.in/product/fh1-27-01-10pzd-xunpu-plugin1x10-pin-1-27mm-female-headers-rohs/) |
 | Push Button (KMR2) | Reset / User Input (SW1, SW2) | 2 | ₹10 | ROBU / MOUSER / offline |
 | 1.1kΩ Resistor (0603) | Current Limiting / Pull-up | 1 | ₹1 | ROBU / MOUSER / offline |
 | 4.7kΩ Resistor (0603) | I2C / General Pull-up | 2 | ₹2 | ROBU / MOUSER / offline |
