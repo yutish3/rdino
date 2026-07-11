@@ -30,7 +30,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | WS2812B-2020 (PLCC4) | Addressable RGB LEDs (D1-D24, D27, D29, D31) | 25 | ₹275 | [Robu](https://robu.in/product/1-month-warranty-953/?gad_source=1&gad_campaignid=17427802703&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDpt1pzF430Rd8rggMbqOhyDVxqaDctheh1CFh1cCbUzKa_cTqI4nuYaAhGvEALw_wcB) |
 | 74AHCT125 | 3.3v to 5v converter | 1 | ₹37 | [Robu](https://robu.in/product/74ahct125pw118-nexperia-8ma-1-4-5v5-5v-8ma-4-tssop-14-buffers-drivers-receivers-transceivers-rohs/) |
 | Standard LED (0603) | Status Indicator (D26) | 1 | ₹3.3 | [evelta](https://evelta.com/0603-orange-chip-led/?srsltid=AfmBOopJK48IT0WFYCzFETDcCPIIkiPRop17X2j5vajIVfQTBZ31vxPa) |
-| USB-C Receptacle 14-Pin | Power and Data Interface (J1) | 1 | ₹45 | ROBU / MOUSER / offline |
+| USB-C Receptacle 14-Pin | Power and Data Interface (J1) | 1 | ₹8 | [Hubtronics](https://hubtronics.in/usb-type-c-16p-female-connector-surface-mount?srsltid=AfmBOordf7MpBH0Qx-t9NQyY5B-fdjtzOuCBNZ2MHx8Cz8tkCzKM3Jp4zG4) |
 | 1x04 Pin Header/Socket | I/O Expansion / Programming (J6) | 1 | ₹15 | ROBU / MOUSER / offline |
 | 1x06 Pin Header/Socket | I/O Expansion (J2) | 1 | ₹15 | ROBU / MOUSER / offline |
 | 1x08 Pin Header/Socket | I/O Expansion (J4, J5) | 2 | ₹30 | ROBU / MOUSER / offline |
