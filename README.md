@@ -43,6 +43,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | 1μF Capacitor (0603) | Decoupling / Bypass | 6 | ₹8.5 | [Robu](https://robu.in/product/1uf-1000nf-50v-capacitor-0603-smd-package-pack-of-20/) |
 | 10pF Capacitor (0603) | Crystal Load Capacitors | 2 | ₹1 | [Robu](https://robu.in/product/10pf-0603-surface-mount-multilayer-ceramic-capacitor-pack-of-50/) |
 | Crystal 3225 (4-Pin) | Clock Source for RP2040 (Y1) | 1 | ₹101 | [lion circuit](https://www.lioncircuits.com/parts/NX3225SA-12MHZ-STD-CSR-6) |
-| PCB | Component Mounting | 1 | ₹180 | JLCPCB / PCBWay |
+| PCB | PCB | 1 | ₹3375 | [Robu] |
+| Hot plate | soldering | 1 | ₹2,749 | [Amazon](https://www.amazon.in/Preheating-Soldering-Preheater-Platform-56x56x35mm/dp/B0C7W3W8C4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2PRL1RFFZO5CK) |
 
 Total Estimated Cost: ₹919
