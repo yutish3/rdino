@@ -36,12 +36,12 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | 1x08 Pin Header/Socket | I/O Expansion (J4, J5) | 2 | ₹32 | [Robu](https://robu.in/product/fh1-27-01-08pzd-xunpu-plugin1x8-pin-1-27mm-female-headers-rohs/?gad_source=1&gad_campaignid=17427802703&gclid=CjwKCAjw08fSBhA7EiwAfbQTsAXYrqE1Rld57TzQKy9yslqVRvfkEbmGVCeCCZim9T4gCUaC_6xX4xoCpCAQAvD_BwE) |
 | 1x10 Pin Header/Socket | I/O Expansion (J3) | 1 | ₹17 | [Robu](https://robu.in/product/fh1-27-01-10pzd-xunpu-plugin1x10-pin-1-27mm-female-headers-rohs/) |
 | Push Button (KMR2) | Reset / User Input (SW1, SW2) | 2 | ₹126 | [Robu](https://robu.in/product/kmr221nglfs-ck-2-8mm-0-5mm-round-button-50ma-vertical-welding-4-2mm-spst-2n-32v-smd-tactile-switches-rohs/) |
-| 1.1kΩ Resistor (0603) | Current Limiting / Pull-up | 1 | ₹1 | ROBU / MOUSER / offline |
-| 4.7kΩ Resistor (0603) | I2C / General Pull-up | 2 | ₹2 | ROBU / MOUSER / offline |
-| 10kΩ Resistor (0603) | Pull-up / Pull-down | 3 | ₹3 | ROBU / MOUSER / offline |
-| 5.1kΩ Resistor (0603) | USB-C CC line Pull-down | 2 | ₹2 | ROBU / MOUSER / offline |
-| 1μF Capacitor (0603) | Decoupling / Bypass | 6 | ₹6 | ROBU / MOUSER / offline |
-| 27pF Capacitor (0603) | Crystal Load Capacitors | 2 | ₹2 | ROBU / MOUSER / offline |
+| 1.1kΩ Resistor (0603) | Current Limiting / Pull-up | 1 | ₹1 | [Robu](https://robu.in/product/0603waj0112t5e-uniohm-royal-ohm-100mw-thick-film-resistors-75v-%C2%B1100ppm-%E2%84%83%C2%B15-1-1k%CF%89-0603-chip-resistor-surface-mount-rohs/) |
+| 4.7kΩ Resistor (0603) | I2C / General Pull-up | 2 | ₹5 | [Robu](https://robu.in/product/rt0603brd074k7l-yageo-res-thin-film-0603-4-7k-ohm-0-1-0-1w1-10w-%C2%B125ppm-c-pad-smd-t-r/) |
+| 10kΩ Resistor (0603) | Pull-up / Pull-down | 3 | ₹3 | [Robu](https://robu.in/product/10k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100/) |
+| 5.1kΩ Resistor (0603) | USB-C CC line Pull-down | 2 | ₹3 | [Robu](https://robu.in/product/rt0603fre075k1l-yageo-100mw-thin-film-resistor-75v-%C2%B150ppm-%E2%84%83-%C2%B11-5-1k%CF%89-0603-chip-resistor-surface-mount-rohs/) |
+| 1μF Capacitor (0603) | Decoupling / Bypass | 6 | ₹8.5 | [Robu](https://robu.in/product/1uf-1000nf-50v-capacitor-0603-smd-package-pack-of-20/) |
+| 27pF Capacitor (0603) | Crystal Load Capacitors | 2 | ₹2 | [Robu](https://robu.in/product/27pf-0-027nf-50v-capacitor-0603-smd-package-pack-of-30/) |
 | Crystal 3225 (4-Pin) | Clock Source for RP2040 (Y1) | 1 | ₹30 | ROBU / MOUSER / offline |
 | PCB | Component Mounting | 1 | ₹180 | JLCPCB / PCBWay |
 
