@@ -46,4 +46,8 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | PCB | PCB | 1 | ₹3375 | [Robu] |
 | Hot plate | soldering | 1 | ₹2,749 | [Amazon](https://www.amazon.in/Preheating-Soldering-Preheater-Platform-56x56x35mm/dp/B0C7W3W8C4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2PRL1RFFZO5CK) |
 
-Total Estimated Cost: ₹919
+The Bare Components : ₹1,324.80
+PCB Fabrication (Robu): ₹3,375.00
+Assembly Tools (Amazon): ₹2,749.00
+
+Grand Total: ₹7,448.80
