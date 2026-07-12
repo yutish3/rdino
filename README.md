@@ -41,8 +41,8 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | 10kΩ Resistor (0603) | Pull-up / Pull-down | 3 | ₹3 | [Robu](https://robu.in/product/10k-ohm-1-4w-0603-surface-mount-chip-resistor-pack-of-100/) |
 | 5.1kΩ Resistor (0603) | USB-C CC line Pull-down | 2 | ₹3 | [Robu](https://robu.in/product/rt0603fre075k1l-yageo-100mw-thin-film-resistor-75v-%C2%B150ppm-%E2%84%83-%C2%B11-5-1k%CF%89-0603-chip-resistor-surface-mount-rohs/) |
 | 1μF Capacitor (0603) | Decoupling / Bypass | 6 | ₹8.5 | [Robu](https://robu.in/product/1uf-1000nf-50v-capacitor-0603-smd-package-pack-of-20/) |
-| 27pF Capacitor (0603) | Crystal Load Capacitors | 2 | ₹2 | [Robu](https://robu.in/product/27pf-0-027nf-50v-capacitor-0603-smd-package-pack-of-30/) |
-| Crystal 3225 (4-Pin) | Clock Source for RP2040 (Y1) | 1 | ₹30 | ROBU / MOUSER / offline |
+| 10pF Capacitor (0603) | Crystal Load Capacitors | 2 | ₹1 | [Robu](https://robu.in/product/10pf-0603-surface-mount-multilayer-ceramic-capacitor-pack-of-50/) |
+| Crystal 3225 (4-Pin) | Clock Source for RP2040 (Y1) | 1 | ₹101 | [lion circuit](https://www.lioncircuits.com/parts/NX3225SA-12MHZ-STD-CSR-6) |
 | PCB | Component Mounting | 1 | ₹180 | JLCPCB / PCBWay |
 
 Total Estimated Cost: ₹919
