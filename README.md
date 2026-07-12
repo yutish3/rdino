@@ -35,7 +35,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | 1x06 Pin Header/Socket | I/O Expansion (J2) | 5 | ₹53 | [Robu](https://robu.in/product/6-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/) |
 | 1x08 Pin Header/Socket | I/O Expansion (J4, J5) | 2 | ₹32 | [Robu](https://robu.in/product/fh1-27-01-08pzd-xunpu-plugin1x8-pin-1-27mm-female-headers-rohs/?gad_source=1&gad_campaignid=17427802703&gclid=CjwKCAjw08fSBhA7EiwAfbQTsAXYrqE1Rld57TzQKy9yslqVRvfkEbmGVCeCCZim9T4gCUaC_6xX4xoCpCAQAvD_BwE) |
 | 1x10 Pin Header/Socket | I/O Expansion (J3) | 1 | ₹17 | [Robu](https://robu.in/product/fh1-27-01-10pzd-xunpu-plugin1x10-pin-1-27mm-female-headers-rohs/) |
-| Push Button (KMR2) | Reset / User Input (SW1, SW2) | 2 | ₹10 | ROBU / MOUSER / offline |
+| Push Button (KMR2) | Reset / User Input (SW1, SW2) | 2 | ₹126 | [Robu](https://robu.in/product/kmr221nglfs-ck-2-8mm-0-5mm-round-button-50ma-vertical-welding-4-2mm-spst-2n-32v-smd-tactile-switches-rohs/) |
 | 1.1kΩ Resistor (0603) | Current Limiting / Pull-up | 1 | ₹1 | ROBU / MOUSER / offline |
 | 4.7kΩ Resistor (0603) | I2C / General Pull-up | 2 | ₹2 | ROBU / MOUSER / offline |
 | 10kΩ Resistor (0603) | Pull-up / Pull-down | 3 | ₹3 | ROBU / MOUSER / offline |
