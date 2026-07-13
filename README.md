@@ -45,6 +45,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | Crystal 3225 (4-Pin) | Clock Source for RP2040 (Y1) | 1 | ₹101 | [lion circuit](https://www.lioncircuits.com/parts/NX3225SA-12MHZ-STD-CSR-6) |
 | PCB | PCB | 1 | ₹3375 | [Robu] |
 | Hot plate | soldering | 1 | ₹2,749 | [Amazon](https://www.amazon.in/Preheating-Soldering-Preheater-Platform-56x56x35mm/dp/B0C7W3W8C4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2PRL1RFFZO5CK) |
+| soldering flux | 1 | ₹400 | [amazon](https://www.amazon.in/Electron-Soldering-Syringe-No-Clean-Electronics/dp/B0GTMJHBJ4) |
 
 The Bare Components : ₹1,324.80
 
