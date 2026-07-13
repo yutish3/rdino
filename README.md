@@ -47,11 +47,11 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 | Hot plate | soldering | 1 | ₹2,749 | [Amazon](https://www.amazon.in/Preheating-Soldering-Preheater-Platform-56x56x35mm/dp/B0C7W3W8C4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2PRL1RFFZO5CK) |
 | soldering flux | gooye paste to combine components | 1 | ₹400 | [amazon](https://www.amazon.in/Electron-Soldering-Syringe-No-Clean-Electronics/dp/B0GTMJHBJ4) |
 
-The Bare Components : ₹1,324.80
+The Bare Components : ₹1,708.80
 
 PCB Fabrication (Robu): ₹3,375.00
 
-Assembly Tools (Amazon): ₹2,749.00
+Assembly Tools (Amazon): ₹3,262.00
 
 
-Grand Total: ₹7,448.80
+Grand Total: ₹8,345.8
