@@ -21,7 +21,7 @@ and it can be used foor any project like lfr robot , micromouse , rc car etc
 <img src="Screenshot (1534).png" alt="3D View" width="600">
 
 
-| Component | Purpose | Qty | Cost (USD) | Distributor |
+| Component | Purpose | Qty | Cost (INR) | Distributor |
 | --- | --- | --- | --- | --- |
 | RP2040 (QFN-56) | Main Microcontroller | 1 | ₹81.00 | [Evelta](https://evelta.com/rp2040-264kb-sram-dual-arm-cortex-m0-processor-mcu-by-raspberry-pi/?srsltid=AfmBOopaIG6fpnSNGs3z4S0e6P0bgP9_VYOyHm1yW1iu5uU8jt_uu5J_) |
 | ESP32-C3-WROOM-02 | Wi-Fi / BLE Module | 1 | ₹312 | [Evelta](https://evelta.com/esp32-c3-wroom-02-n4-wi-fi-ble-module-4mb-flash-pcb-antenna/?sku=136-ESP32-C3-WROOM-02-N4&utm_source=google&utm_campaign=19958243666&utm_medium=cpc&utm_content=&utm_term=&gad_source=1&gad_campaignid=19958265965&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDqEPgMN1OtKYFDDmMqUSGKSXAjHzA4DRwzgzZp3zSiW1o8-RgKeGbgaAoSMEALw_wcB) |
