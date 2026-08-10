@@ -1,6 +1,10 @@
 # rdino
 rp-2040 development board in the shape of arduino uno r3 so it supports its hats and also has esp32 for wifi and bluetooth and 5x5 grid of neo pixel leds
 
+main goals I had was making it is that I wanted to have a powerful board on which Arduino hats can fit with wireless capabilities so I used both rp 2040 and esp 32 and connected gpios of both so rp 2040 can off load some tasks to esp 32. so in a sense it is like Arduino UNO but on steroids 
+
+and for usage too it can be used like a normal Arduino UNO 
+
 it has dual microcontroller so all the less important repetative tasks can be off loaded to esp32 and main work can be done by the rp 2040 chip with extra 16M bit memory
 and it can be used foor any project like lfr robot , micromouse , rc car etc
 
