@@ -11,6 +11,14 @@ and for usage too it can be used like a normal Arduino UNO
 it has dual microcontroller so all the less important repetative tasks can be off loaded to esp32 and main work can be done by the rp 2040 chip with extra 16M bit memory
 and it can be used foor any project like lfr robot , micromouse , rc car etc
 
+## what makes it special (main components)
+&#9679; RP2040
+&#9679; W25Q128JVS
+&#9679; ESP32-C3-WROOM-02
+&#9679; 25 X WS2812B-2020
+
+## Images
+
 <img src="images/image_2026-06-09_012542882.png" alt="Schematics" width="600">
 
 <img src="images/image_2026-06-09_012432308.png" alt="PCB design" width="600">
