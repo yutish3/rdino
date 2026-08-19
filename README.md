@@ -12,13 +12,13 @@ it has dual microcontroller so all the less important repetative tasks can be of
 and it can be used foor any project like lfr robot , micromouse , rc car etc
 
 ## what makes it special (main components)
-&#9679; RP2040
+&#9679; RP2040 :- main microcontroller
 
-&#9679; W25Q128JVS
+&#9679; W25Q128JVS :- 128Mbit Flash Memory for extra juice
 
-&#9679; ESP32-C3-WROOM-02
+&#9679; ESP32-C3-WROOM-02 :- backup microcontroller with wifi and Bluetooth capabilities 
 
-&#9679; 25 X WS2812B-2020
+&#9679; 25 X WS2812B-2020 :- programmable rgb leds
 
 ## Images
 
